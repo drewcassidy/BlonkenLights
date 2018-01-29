@@ -1,0 +1,4 @@
+[submodule "mbed-os"]
+	path = mbed-os
+	url = https://github.com/OSHChip/mbed-os.git
+	branch = update
