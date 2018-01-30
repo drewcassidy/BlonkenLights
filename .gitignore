@@ -38,3 +38,7 @@ mbed_config.h
 
 # Build/IDEs
 CMakeLists.txt
+
+# Libraries
+mbed-os
+mbed-Homekit
