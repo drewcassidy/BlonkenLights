@@ -38,6 +38,8 @@ mbed_config.h
 
 # Build/IDEs
 CMakeLists.txt
+cmake-build-debug
+.idea
 
 # Libraries
 mbed-os
