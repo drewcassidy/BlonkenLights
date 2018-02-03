@@ -40,7 +40,4 @@ mbed_config.h
 CMakeLists.txt
 cmake-build-debug
 .idea
-
-# Libraries
-mbed-os
-mbed-Homekit
+GettingStarted.html
