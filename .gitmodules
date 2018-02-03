@@ -2,6 +2,6 @@
 	path = mbed-os
 	url = https://github.com/OSHChip/mbed-os.git
 	branch = update
-[submodule "mbed-homekit"]
-	path = mbed-homekit
-	url = ./mbed-homekit
+[submodule "mbed-Homekit"]
+	path = mbed-Homekit
+	url = ./mbed-Homekit
