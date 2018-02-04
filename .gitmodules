@@ -4,4 +4,4 @@
 	branch = update
 [submodule "mbed-Homekit"]
 	path = mbed-Homekit
-	url = ./mbed-Homekit
+	url = https://github.com/drewcassidy/mbed-Homekit.git
